@@ -26,15 +26,15 @@ During an interview, you can ask yourself these questions out loud, and answer t
 #### Requirements
 
 - Complete these problems from CodingBat, first on whiteboard or paper, then you can check them on the website:
-  - http://codingbat.com/prob/p165312
-  - http://codingbat.com/prob/p159531
-  - http://codingbat.com/prob/p185139
+  1. http://codingbat.com/prob/p165312
+  2. http://codingbat.com/prob/p159531
+  3. http://codingbat.com/prob/p185139
 - Fork & clone this repo, then type or paste your code into a .java file (it can be in an IntelliJ project, or just a single .java file all by itself, either way is fine)
 - Finally, push your code and submit a pull request; put your name in the title of the pull request
 
 **Bonus Problems**
-- http://codingbat.com/prob/p120347
-- http://codingbat.com/prob/p183562
+4. http://codingbat.com/prob/p120347
+5. http://codingbat.com/prob/p183562
 
 #### Deliverable
 
