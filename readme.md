@@ -21,6 +21,8 @@ If you draw a blank looking at a problem, here are some questions to ask yoursel
 - Do you need any local variables to temporarily hold any data?
 - Are there any "edge cases" or invalid/unexpected input to look out for?
 
+During an interview, you can ask yourself these questions out loud, and answer them out loud too. This is a good way to show the interviewer your thought process, and it gives you opportunities to ask clarifying questions and confirm your assumptions with the interviewer.
+
 #### Requirements
 
 - Complete these problems from CodingBat, first on whiteboard or paper, then you can check them on the website:
