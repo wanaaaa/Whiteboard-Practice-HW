@@ -33,6 +33,7 @@ During an interview, you can ask yourself these questions out loud, and answer t
 - Finally, push your code and submit a pull request; put your name in the title of the pull request
 
 **Bonus Problems**
+
 4. http://codingbat.com/prob/p120347
 5. http://codingbat.com/prob/p183562
 
